@@ -3,14 +3,14 @@ def binary_search(arr, item):
     low = 0
     high = len(arr) - 1
     while low <= high:
-        mid = (low + high)
+        mid = (low + high) // 2
         guess = arr[mid]
         if guess == item:
             return mid
         if guess > item:
             high = mid - 1
         else:
-            high = mid + 1
+            low = mid + 1
     return None
 
-print(binary_search([1, 3 , 5, 6, 9], 6))
+print(binary_search([1, 3, 5, 6, 9], 6))
