@@ -12,3 +12,5 @@ def binary_search(arr, item):
         else:
             high = mid + 1
     return None
+
+print(binary_search([1, 3 , 5, 6, 9], 6))
