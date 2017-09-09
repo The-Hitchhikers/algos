@@ -1,11 +1,13 @@
 # Collection of algorithms
 
 ##**Is it useful?**
+
 Well, probably **yes**, but we don't know for sure :)
 Here we have or at least should have a set of custom algos and different programming problem solutions.
 It is a good place to contribute your problems and the way you solve them.
 
 ##**Languages**
+
 Any limitations on that.
 Currently supported :
 
@@ -15,10 +17,12 @@ Currently supported :
 You welcome to start your own stream.
 
 ## **Contributing**
+
 Anyone is allowed to contribute. Even more - we ask you to share your problems with us. 
 Also you are welcome to discuss solutions and improve them.
 
 ## **Packaging**
+
 Few words about project structure we currently support. Basically we support just a tree of folders/packages with problems.
 The naming approach looks kije this :
 ***language*** -> ***datastructure*** -> ***resource*** -> ***exact_problem*** -> ***classes_with_code***
@@ -35,6 +39,7 @@ Java example :
  - BinarySearch.java - maps on **classes_with_code**, that's one unit of solution among others possible.
 
 ## **Idealogy**
+
 Programming is all about solving problems, isn't it?
 We prefer saying Software developer - not Ruby developer, IOS developer, full-stack developer.
 Any language/platform specific stuff - is just an area of development you are currently in. 
@@ -53,6 +58,7 @@ This project is about helping pepole to decrease threshold entry into algos.
  - Add unit tests with different cases for each problem. So that we can handle all edge cases and stressfull things.  
 
 ##**Where to start?**
+
 Have a look at those :
 
  - [Leetcode](https://leetcode.com/)
@@ -62,10 +68,12 @@ Have a look at those :
 We'll add more links later.
 
 ##**Project Stage**
+
 Currently it is a kind of [PoC](https://en.wikipedia.org/wiki/Proof_of_concept).
 But, hopefully it will grow in something bigger and will serve mankind :) 
 
 ##**License**
+
 *Every open-source project has a license - so I guess we also need to have one. Don't judge us for that.*
 
     Copyright 2017 The-Hitchhikers.inc
@@ -81,5 +89,3 @@ But, hopefully it will grow in something bigger and will serve mankind :)
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-
