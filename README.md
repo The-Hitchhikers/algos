@@ -1,12 +1,12 @@
 # Collection of algorithms
 
-##**Is it useful?**
+## **Is it useful?**
 
 Well, probably **yes**, but we don't know for sure :)
 Here we have or at least should have a set of custom algos and different programming problem solutions.
 It is a good place to contribute your problems and the way you solve them.
 
-##**Languages**
+## **Languages**
 
 Any limitations on that.
 Currently supported :
@@ -24,7 +24,7 @@ Also you are welcome to discuss solutions and improve them.
 ## **Packaging**
 
 Few words about project structure we currently support. Basically we support just a tree of folders/packages with problems.
-The naming approach looks kije this :
+The naming approach looks like this :
 ***language*** -> ***datastructure*** -> ***resource*** -> ***exact_problem*** -> ***classes_with_code***
 
 Java example :
@@ -53,11 +53,11 @@ We don't mind that a lot of problems are already solved and optimized. We don't 
 Everything we want - solve problems and help others to do that. 
 This project is about helping pepole to decrease threshold entry into algos. 
 
-##**Future plans**
+## **Future plans**
 
  - Add unit tests with different cases for each problem. So that we can handle all edge cases and stressfull things.  
 
-##**Where to start?**
+## **Where to start?**
 
 Have a look at those :
 
@@ -67,12 +67,12 @@ Have a look at those :
 
 We'll add more links later.
 
-##**Project Stage**
+## **Project Stage**
 
 Currently it is a kind of [PoC](https://en.wikipedia.org/wiki/Proof_of_concept).
 But, hopefully it will grow in something bigger and will serve mankind :) 
 
-##**License**
+## **License**
 
 *Every open-source project has a license - so I guess we also need to have one. Don't judge us for that.*
 
