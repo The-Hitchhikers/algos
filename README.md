@@ -47,11 +47,11 @@ That's the kind of area were you feel yourself most comfortable in comparison to
 We think that there are a lot of common problems and ofcoure solutions that aren't binded to languages or platforms.
 A good developer should have basic knowledge and the ability to solve problems independent of language he/she is using.
 At this point algos should join the game :) 
-**Definetely you can conribute any language/platform specific problem. Don't treat our word as rule - we aren't forcing you to handle only abstract things.**
+**Definetely you can contribute any language/platform specific problem. Don't treat our word as rule - we aren't forcing you to handle only abstract things.**
 We are forcing to enchant your way of **thinking** in the algo approach/direction.
 We don't mind that a lot of problems are already solved and optimized. We don't pretend to develop our super-zip algo and found ["Pied Piper".](https://en.wikipedia.org/wiki/Silicon_Valley_%28TV_series%29)
 Everything we want - solve problems and help others to do that. 
-This project is about helping pepole to decrease threshold entry into algos. 
+This project is about helping people to decrease threshold entry into algos.
 
 ## **Future plans**
 
