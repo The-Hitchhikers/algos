@@ -1,4 +1,4 @@
-package com.example.yuriitsap.algos.geeks_for_geeks.array;
+
 
 import java.util.Scanner;
 
