@@ -1,4 +1,4 @@
-# Diagonal Difference
+# https://www.hackerrank.com/challenges/diagonal-difference/problem
 def diagonal_difference(n, ar):
     first_diagonal = []
     second_diagonal = []

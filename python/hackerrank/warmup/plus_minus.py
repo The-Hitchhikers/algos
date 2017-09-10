@@ -4,7 +4,7 @@ def show_result(positive, negative, zeros):
         print("{:.6f}".format(ar[x]))
 
 
-# Plus minus
+# https://www.hackerrank.com/challenges/plus-minus/problem
 def plus_minus(n, ar):
     positive = len([ar[x] for x in range(n) if ar[x] > 0])
     negative = len([ar[x] for x in range(n) if ar[x] < 0])

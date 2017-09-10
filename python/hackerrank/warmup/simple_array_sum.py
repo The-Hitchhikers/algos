@@ -1,5 +1,4 @@
-# Simple Array Sum
-# Passed only one test case
+# https://www.hackerrank.com/challenges/simple-array-sum/problem
 def simple_array_sum(ar):
     arr = [int(value) for value in ar.split(' ')]
     result = sum(arr)

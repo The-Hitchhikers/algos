@@ -1,4 +1,4 @@
-# Compare the Triplets
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem
 def solve(a0, a1, a2, b0, b1, b2):
     alice = [a0, a1, a2]
     bob = [b0, b1, b2]

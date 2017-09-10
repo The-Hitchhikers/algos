@@ -1,4 +1,4 @@
-# Grading students
+# https://www.hackerrank.com/challenges/grading/problem
 def grading_students(n, ar):
     result = []
     for x in range(n):

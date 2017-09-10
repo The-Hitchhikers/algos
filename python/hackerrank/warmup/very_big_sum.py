@@ -1,4 +1,4 @@
-# A Very Big Sum
+# https://www.hackerrank.com/challenges/a-very-big-sum/problem
 def very_big_sum(n, ar):
     total = 0
     for x in range(n):
