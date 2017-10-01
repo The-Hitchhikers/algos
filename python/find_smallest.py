@@ -10,3 +10,11 @@ def find_smallest(arr):
     return smallest_index
 
 print(find_smallest([11, 23, 8, 10]))
+
+
+def getTotalX(a, b):
+    total = 0
+    for x in range(max(a), min(b) + 1):
+        if all(x % j == 0 for j in a) and all(j % x == 0 for j in b):
+            total += 1
+    return total
