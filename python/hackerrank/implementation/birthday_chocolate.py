@@ -2,6 +2,6 @@
 def solve(d, m, sq):
     count = 0
     for x in range(0, len(sq) + 1 - m):
-        if sum(sq[i: i + m]) == d:
+        if sum(sq[x: x + m]) == d:
             count += 1
     return count
